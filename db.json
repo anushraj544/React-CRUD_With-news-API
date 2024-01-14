@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Anush Raj kumar",
+      "email": "anushraj544@gmail.com",
+      "mobile": "8709774419",
+      "password": "Anush5412",
+      "id": 1
+    },
+    {
+      "name": "Priya kuamri",
+      "email": "priya@gmail.com",
+      "mobile": "6239069576",
+      "password": "P1234@",
+      "id": 2
+    },
+    {
+      "name": "Saurabh jhatu",
+      "email": "jhatu@gmail.com",
+      "mobile": "852147963",
+      "password": "jha@123",
+      "id": 4
+    },
+    {
+      "name": "Rakul Sinha",
+      "email": "sin@gmail.com",
+      "mobile": "8741256312",
+      "password": "sin@123",
+      "id": 5
+    },
+    {
+      "name": "Abhishek Kumar",
+      "email": "Abhishek@gmail.com",
+      "mobile": "98745132641",
+      "password": "abhi120",
+      "id": 6
+    },
+    {
+      "name": "Ashish Raj",
+      "email": "ashishraj54@gmail.com",
+      "mobile": "8745120365",
+      "password": "as@1452",
+      "id": 8
+    },
+    {
+      "name": "Ashwini Kumar",
+      "email": "ash@gmail.com",
+      "mobile": "9758412698",
+      "password": "as@123",
+      "id": 9
+    },
+    {
+      "name": "Ankit Kumar",
+      "email": "ankit@gmail.com",
+      "mobile": "8745123698",
+      "password": "ak@123",
+      "id": 10
+    }
+  ]
+}
